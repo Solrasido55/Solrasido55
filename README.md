@@ -1,7 +1,9 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=150&section=header&text=Solrasido%20Github&fontSize=90)
-
+  <div align="center">email : solrasido55@gmail.com</div>
+    <div align="center">blog : https://velog.io/@solrasido55</div>
+    <div align="center">resume : https://url.kr/tk4hl8</div>
 
 
   <div align="center"><h1>Tech Stack</h1></div>
